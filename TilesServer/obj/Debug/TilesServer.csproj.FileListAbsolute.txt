@@ -1,0 +1,9 @@
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\obj\Debug\TilesServer.csprojResolveAssemblyReference.cache
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\obj\Debug\TilesServer.csproj.GenerateResource.Cache
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\bin\Debug\TilesServer.exe.config
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\bin\Debug\TilesServer.exe
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\bin\Debug\TilesServer.pdb
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\obj\Debug\TilesServer.ServerController.resources
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\obj\Debug\TilesServer.Properties.Resources.resources
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\obj\Debug\TilesServer.exe
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\obj\Debug\TilesServer.pdb

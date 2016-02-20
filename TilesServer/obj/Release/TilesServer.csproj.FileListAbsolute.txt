@@ -1,0 +1,2 @@
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\Jepp2078\documents\visual studio 2015\Projects\TilesServer\WindowsFormsApplication2\bin\Release\WindowsFormsApplication21.exe.config
